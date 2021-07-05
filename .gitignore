@@ -1,0 +1,14 @@
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+cmake-build-debug/
